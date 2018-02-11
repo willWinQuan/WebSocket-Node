@@ -6,5 +6,8 @@
     "dependencies": {
         "express": "~2",
         "ejs": "*"
+    },
+    "scripts": {
+        "start": "node ./whiteboard.js"
     }
 }
